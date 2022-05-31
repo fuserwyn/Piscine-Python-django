@@ -1,0 +1,8 @@
+.DS_Store
+.gitignore
+*.log
+*.css
+*.png
+local_lib/
+ex04/
+*.wiki

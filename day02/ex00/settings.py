@@ -1,0 +1,7 @@
+title = "CV"
+name = "Furtive"
+surname = "Serwyn"
+cpp = "C"
+git = "Git"
+python = "Python"
+music = "music"
